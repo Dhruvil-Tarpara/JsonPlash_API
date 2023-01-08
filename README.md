@@ -8,7 +8,7 @@ A new Flutter project.
 
 <table>
   <tr>
-    <td></td>
+    <td>GIF</td>
      </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/121105558/210785589-b2aa0382-2409-46f2-9df1-5c29a011ebbe.gif"style="width:200px;"></td>
